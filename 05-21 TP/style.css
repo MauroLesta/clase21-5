@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    background-color: blueviolet;
+    font-size: 40px;
+}
+
+.Imperio{
+
+    font-style: italic;
+    background-color: red;
+
+
+}
+
+.Rebelion{
+
+    font-style: oblique;
+    background-color: blue;
+
+
+}
+
+.lider{
+
+    font-size: x-large;
+    color: yellow;
+
+
+}
+
+h2{
+    font-size: 30px;
+}
+
